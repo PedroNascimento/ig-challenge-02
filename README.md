@@ -1,4 +1,7 @@
 # ig-challenge-02
+
+Desafio 02 - **Componentizando a aplicação** - Trilha ReactJS - Iginite (*Rocketseat*)
+
 O Objetivo desse desafio era refatorar uma página para listagem de filmes de acordo com gênero.
 
 Nesse desafio o código da aplicação já estava totalmente funcional, porém grande parte do código estava diretamente no arquivo **App.tsx**. Para resolver a proposta do desafio era necessário dividir a aplicação em pelo menos dois conteiners principais:
